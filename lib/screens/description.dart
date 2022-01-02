@@ -71,7 +71,7 @@ class _DescriptionState extends State<Description> {
                   const SizedBox(
                     height: 10,
                   ),
-                  Row(
+                  Column(
                     children: [
                       const SizedBox(
                         width: 20,
